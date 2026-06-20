@@ -6,4 +6,4 @@ Upload a PDF and ask questions using Groq LLM and ChromaDB.
 
 pip install -r requirements.txt
 
-streamlit run app.py
+streamlit run main.py
